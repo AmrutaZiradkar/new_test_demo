@@ -36,6 +36,8 @@ public class TestCase
 		ClothBuy co= new ClothBuy(driver);
 				co.clothSelection();
 		shoppingtest.tearown();
+
+		System.out.println("Hello Welcome... !!!");
 			
 		}
 		

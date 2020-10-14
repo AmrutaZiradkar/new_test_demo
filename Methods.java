@@ -27,13 +27,17 @@ public class Methods
 
 	}
 	
-	public static void launch_browser()
+	/*public static void launch_browser()
 	{
 
 		System.setProperty("webdriver.chrome.driver","C:\\Users\\Rakesh\\Desktop\\Chrome_Selenium\\84\\chromedriver.exe");
 		WebDriver driver=new ChromeDriver();
 		driver.get("https://login.salesforce.com/");
-        driver.manage().window().maximize();
+        driver.manage().window().maximize();*/
+
+
+
+	System.out.println("Changes Made to file....................");
  
 	}
 }
